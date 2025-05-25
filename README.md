@@ -68,7 +68,4 @@ Kaggle is hosting this competition for the machine learning community to use for
 *Fanaee-T, Hadi, and Gama, Joao, Event labeling combining ensemble detectors and background knowledge, Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg.*
 
 
-## License
-[License](LICENSE.txt)<br><br>
-
 Thank you for taking the time to visit this repository!
